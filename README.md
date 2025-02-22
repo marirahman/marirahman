@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marirahman
 # 💫 About Me:
-🤝 I’m looking for help with frontend & backend development<br>🌱 I’m currently learning Web Development (HTML, CSS, JavaScript, Laravel, Tailwind CSS, etc.)
+👋 Hi, I’m @marirahman
+🌱 I’m currently learning Web Development (HTML, CSS, JavaScript, Laravel, Tailwind CSS, etc.)
 
 
 # 💻 Tech Stack:
